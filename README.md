@@ -23,7 +23,7 @@ mongod
 Then, open another terminal without closing the previous one and write the following command :
 ```bash
 npm i
-node .\\server.js
+node .\server.js
 ```
 
 The backend will be running after this. 
